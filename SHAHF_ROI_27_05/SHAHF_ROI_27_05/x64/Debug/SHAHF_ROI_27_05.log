@@ -1,0 +1,31 @@
+﻿  assembler.c
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(72,14): warning C4013: 'Getlabels' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(84,14): warning C4013: 'second_run' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(105,15): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(105,34): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(105,53): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(110,21): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(110,21): warning C4024: 'strchr': different types for formal and actual parameter 2
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(111,23): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(111,23): warning C4024: 'strchr': different types for formal and actual parameter 2
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(111,45): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(111,45): warning C4024: 'strchr': different types for formal and actual parameter 2
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(156,7): warning C4013: 'estimate_if_bigimm' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(98,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(175,8): warning C4013: 'is_label_immediate' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(196,7): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(210,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(210,15): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(211,12): warning C4047: '==': 'char *[500]' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(211,28): warning C4047: '==': 'char *[500]' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(211,44): warning C4047: '==': 'char *[500]' differs in levels of indirection from 'char [2]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(211,61): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(211,61): warning C4024: 'strstr': different types for formal and actual parameter 1
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(214,14): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(214,14): warning C4024: 'strstr': different types for formal and actual parameter 1
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(216,15): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[500]'
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(216,15): warning C4024: 'sscanf': different types for formal and actual parameter 1
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(222,19): warning C4013: 'line_to_hexa' undefined; assuming extern returning int
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(206,6): warning C4101: 'to_hexa': unreferenced local variable
+C:\Users\roiya\source\repos\SHAHF_ROI_27_05\SHAHF_ROI_27_05\assembler.c(234,1): warning C4716: 'second_run': must return a value
+  SHAHF_ROI_27_05.vcxproj -> C:\Users\roiya\source\repos\SHAHF_ROI_27_05\x64\Debug\SHAHF_ROI_27_05.exe
