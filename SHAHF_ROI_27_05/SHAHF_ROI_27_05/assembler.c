@@ -65,7 +65,8 @@ int main(int argc, char* argv[])
 
 	int last_line = 0, label_num = 0; // Lines & labels counting
 	// First run - label Reading
-	inputFile = fopen(argv[0], "r");
+	inputFile = fopen("fib.txt", "r");
+	//inputFile = fopen(argv[1], "r");
 	if (inputFile == NULL) {
 		exit(1);
 	}
